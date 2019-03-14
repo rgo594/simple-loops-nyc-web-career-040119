@@ -5,9 +5,7 @@ def loop_iterator(nt)
   counter += 1
   loop do
     puts "Welcome to Flatiron School's Web Development Course!"
-    if counter >= nt
-      break
-    end
+    break if counter >= nt
   end
 end
 
