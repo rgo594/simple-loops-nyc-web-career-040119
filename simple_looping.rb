@@ -34,7 +34,7 @@ end
 def for_iterator(nt)
   counter = 1..nt
   for counter in 1..nt do
-   "Welcome to Flatiron School's Web Development Course!"
-  
+    puts "Welcome to Flatiron School's Web Development Course!"
+  end
 end
 
