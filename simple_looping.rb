@@ -19,6 +19,7 @@ def while_iterator(nt)
   counter = 0
   while counter < nt
     puts "Welcome to Flatiron School's Web Development Course!"
+    counter += 1
   end
 end
 
