@@ -1,13 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(nt)
-  counter = 0
-  counter += 1
-  loop do
-    puts "Welcome to Flatiron School's Web Development Course!"
-    break if counter >= nt
-  end
-end
+
 
 def times_iterator(number_of_times)
   number_of_times.times do
