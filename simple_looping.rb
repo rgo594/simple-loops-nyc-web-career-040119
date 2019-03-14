@@ -23,7 +23,7 @@ def while_iterator(nt)
   end
 end
 
-def until_iterator(number_of_times)
+def until_iterator(nt)
   counter = 0
   until counter == nt
     puts "Welcome to Flatiron School's Web Development Course!"
