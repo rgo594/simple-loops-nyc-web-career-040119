@@ -3,7 +3,7 @@
 def loop_iterator(nt)
   counter = 0
   loop do
-    
+    counter += 1
     puts "Welcome to Flatiron School's Web Development Course!"
     break if counter >= nt
   end
