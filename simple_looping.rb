@@ -33,7 +33,7 @@ end
 
 def for_iterator(nt)
   counter = 1..nt
-  
+  for counter 
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
